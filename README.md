@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/programming-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-706.jpg?t=st=1730731142~exp=1730734742~hmac=a56a615e7f630708cf60ca8eb2e8037fd8265d19286e8a1fd68db365e55c1162&w=1380)
 <h1 align="center">Hi 👋, I'm Bhanuprasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="coding" width = "400" src = "https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanuprasad17&label=Profile%20views&color=0e75b6&style=flat" alt="bhanuprasad17" /> </p>
